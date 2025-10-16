@@ -373,3 +373,6 @@ body {
   line-height: 1em;
 }
 
+section {
+    scroll-margin-top: 180px;
+}
